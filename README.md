@@ -65,7 +65,7 @@ We achieved high values for all these metrics, as shown by the table on the left
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/summary.png)
 
 # License
-Project licensed under AGPL-3.0. also project contains Ultralytics software licensed under AGPL-3.0.
+Project licensed under AGPL-3.0. Also project contains Ultralytics software licensed under AGPL-3.0.
 
 # Citation 
 - Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics YOLO [Computer software]. https://github.com/ultralytics/ultralytics
