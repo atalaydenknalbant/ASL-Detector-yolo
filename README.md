@@ -1,3 +1,4 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatalaydenknalbant%2FASL-Detector-YOLOV9e&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Sign Language Translator
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/asl_demo.gif)
 # Overview
@@ -63,5 +64,9 @@ We achieved high values for all these metrics, as shown by the table on the left
 ## Our project has the following aspects:
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/summary.png)
 
+# License
+Project licensed under AGPL-3.0. also project contains Ultralytics software licensed under AGPL-3.0.
+
 # Citation 
 - Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics YOLO [Computer software]. https://github.com/ultralytics/ultralytics
+
