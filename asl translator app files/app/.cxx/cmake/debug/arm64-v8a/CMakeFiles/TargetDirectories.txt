@@ -1,0 +1,3 @@
+C:/YOLOv8-Custom-Object-Detection-Android main app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/yolov8ncnn.dir
+C:/YOLOv8-Custom-Object-Detection-Android main app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/YOLOv8-Custom-Object-Detection-Android main app/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

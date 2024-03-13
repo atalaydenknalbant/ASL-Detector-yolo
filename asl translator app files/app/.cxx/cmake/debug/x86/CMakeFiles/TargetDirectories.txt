@@ -1,0 +1,3 @@
+C:/asl translator/app/.cxx/cmake/debug/x86/CMakeFiles/yolov8ncnn.dir
+C:/asl translator/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/asl translator/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

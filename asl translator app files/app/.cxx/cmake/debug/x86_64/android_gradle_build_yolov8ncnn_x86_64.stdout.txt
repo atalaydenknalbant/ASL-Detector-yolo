@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\YOLOv8-Custom-Object-Detection-Android main app\app\.cxx\cmake\debug\x86_64'
+ninja: no work to do.

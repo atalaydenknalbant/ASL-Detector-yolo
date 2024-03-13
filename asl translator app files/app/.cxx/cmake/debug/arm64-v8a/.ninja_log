@@ -1,0 +1,26 @@
+# ninja log v5
+8	794	729297378	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	f6400dfe62924f9f
+0	856	729297378	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+4	993	729297378	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	5adb61debb8e5b18
+993	1572	729297379	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+3	828	729298104	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	5adb61debb8e5b18
+828	1252	729298104	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+5	622	729379001	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	f6400dfe62924f9f
+1	648	729379001	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+3	737	729379001	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	5adb61debb8e5b18
+737	1136	729379002	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+13	1348	729388272	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	5adb61debb8e5b18
+1348	2037	729388272	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+4	923	729389345	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+923	1558	729389345	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+4	898	729389398	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+898	1517	729389399	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+3	914	729389587	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+914	1545	729389588	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+4	930	729389656	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+930	1546	729389657	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+4	908	729389793	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+908	1531	729389794	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
+3	271	729391281	build.ninja	8598f08e5d78ceea
+3	923	729391282	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	62cedc425633c688
+924	1568	729391282	C:/YOLOv8-Custom-Object-Detection-Android main app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	34b4250204e88e28
