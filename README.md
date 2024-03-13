@@ -5,6 +5,9 @@
 <img src="https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/asl.png" width="400" />
 
 The aim of this project was to develop an application that can translate American Sign Language (ASL) into written language, using object detection techniques and multiple data sources.​
+# Run Inference On Hugging Face
+https://huggingface.co/spaces/atalaydenknalbant/ASL-Detector-YOLOV9
+
 # Defining The Problem ​And The Solution
 * We want to improve communication and inclusion between people who use ASL and those who do not.​
 * Our project uses computer vision and machine learning to detect and translate ASL signs into words.​
