@@ -9,6 +9,9 @@ The aim of this project was to develop an application that can translate America
 # Run Inference On Hugging Face
 https://huggingface.co/spaces/atalaydenknalbant/ASL-Detector-YOLOV9
 
+# Trained Models Link
+https://huggingface.co/atalaydenknalbant/asl-models/tree/main
+
 # Defining The Problem ​And The Solution
 * We want to improve communication and inclusion between people who use ASL and those who do not.​
 * Our project uses computer vision and machine learning to detect and translate ASL signs into words.​
