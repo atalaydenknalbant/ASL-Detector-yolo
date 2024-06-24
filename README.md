@@ -37,7 +37,7 @@ https://huggingface.co/atalaydenknalbant/asl-models/tree/main
 * Images dimension: ​
 (384, 384), (416,416) (640,480)
 # Model
-Our model is the Yolov10-small model, which was pretrained on the COCO dataset for object detection.
+Our model is the Yolov9-small model, which was pretrained on the COCO dataset for object detection.
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/model_parameters.png)
 # Results
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/confusion_matrix.png)![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/train_val_results.png)
