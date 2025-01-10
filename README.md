@@ -8,7 +8,7 @@
 
 The aim of this project was to develop an application that can translate American Sign Language (ASL) into written language, using object detection techniques and multiple data sources.​
 # Run Inference On Hugging Face
-https://huggingface.co/spaces/atalaydenknalbant/ASL-Detector-YOLOV9
+https://huggingface.co/spaces/atalaydenknalbant/ASL-Detector-YOLO
 
 # Trained Models Link
 https://huggingface.co/atalaydenknalbant/asl-models/tree/main
