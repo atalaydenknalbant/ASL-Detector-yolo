@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app",
+      "sdkFolder": "C:\\Users\\yineh\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app",
+      "makeFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\.cxx",
+      "cxxFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\yineh\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 26,
+  "cxxBuildFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64",
+  "jsonFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64",
+  "objFolder": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64",
+  "buildCommandFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\build_command.txt",
+  "buildOutputFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\build_output.txt",
+  "modelOutputFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cxx\\debug\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\.cxx\\cmake\\debug\\x86_64\\compile_commands.json"
+}

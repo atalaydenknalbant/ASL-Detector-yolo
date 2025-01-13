@@ -1,0 +1,19 @@
+Executable : C:\Users\yineh\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\asl translator\app\src\main\jni
+-BC:\asl translator\app\.cxx\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-26
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\asl translator\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\yineh\AppData\Local\Android\Sdk\ndk\21.3.6528147
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_SYSTEM_VERSION=26
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=C:\Users\yineh\AppData\Local\Android\Sdk\ndk\21.3.6528147
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\yineh\AppData\Local\Android\Sdk\ndk\21.3.6528147\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=C:\Users\yineh\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+
