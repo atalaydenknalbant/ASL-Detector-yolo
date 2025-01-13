@@ -1,7 +1,0 @@
-#Mon Feb 12 00:48:45 TRT 2024
-base.1=C\:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
-path.1=classes.dex
-base.0=C\:\\YOLOv8-Custom-Object-Detection-Android main app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex

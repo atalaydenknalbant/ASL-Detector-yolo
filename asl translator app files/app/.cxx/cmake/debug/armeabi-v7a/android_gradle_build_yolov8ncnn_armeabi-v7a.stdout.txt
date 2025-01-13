@@ -1,2 +1,0 @@
-ninja: Entering directory `C:\YOLOv8-Custom-Object-Detection-Android main app\app\.cxx\cmake\debug\armeabi-v7a'
-ninja: no work to do.
