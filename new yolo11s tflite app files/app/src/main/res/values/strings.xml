@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yolo11tflite</string>
+    <string name="time_ms_suffix">ms</string>
+    <string name="inference_time_format">%d %s</string>
+</resources>
