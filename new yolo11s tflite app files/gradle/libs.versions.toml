@@ -14,7 +14,7 @@ composeBom = "2024.04.01"
 tensorflowLite = "2.14.0"
 tensorflowLiteSupport = "0.4.4"
 appcompat = "1.7.0"
-litertGpu = "1.0.1"
+litertGpu = "1.1.0"
 
 [libraries]
 androidx-appcompat-v161 = { module = "androidx.appcompat:appcompat", version.ref = "appcompatVersion" }
