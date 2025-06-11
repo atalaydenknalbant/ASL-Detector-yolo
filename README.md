@@ -1,4 +1,4 @@
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)![visitors](https://visitor-badge.laobi.icu/badge?page_id=atalaydenknalbant/ASL-Detector-yolo) 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=atalaydenknalbant/ASL-Detector-yolo) 
 [![HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/atalaydenknalbant/ASL-Detector-YOLO)
 # Sign Language Translator
 ![](https://github.com/iremgulcin/tahir-atalay-rumeysa-yusuf-mehmet/blob/main/readme_images/asl_demo.gif)
